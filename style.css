@@ -8,63 +8,82 @@ body {
 h1 {
     color: #777;
     background-color: #ebebeb;
-    padding: 15px;
+    padding: 42px;
     text-align: center;
     font-family: Arial;
     font-size: 18px;
 }
 
-p { 
-    
-    text-align: center;
-   
-}
+
+
 .div1 {
     background-color: #ebebeb;
-   
+    color: #777;
     padding: 15px;
-  
     text-align: center;
 }
 
 
 .section {
     background-color: #fff;
-    width: 415px;
+    width: 490px;
     float: left;
-    height: 300px;
-    margin: 20px;
+   margin-bottom: 20px;
+    margin-top: 20px;
     font-style: Arial;
     font-size: 18px;
     color: #777;
+    padding: 10px;
+    text-align: center
   }
 
-.article {
+article {
     background-color: #777;
-    height: 200px;
-    margin: 20px;
+    margin-top: 20px;
     font-style: Arial;
     font-size: 18px;
     color: #ebebed;
+    height: 230px;
+    padding: 10px;
    }
 
-   .h2 {
+h2 {
     background-color: #ebebed;
-    height: 40px;
-    margin: 20px;
+    color: #777;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    
+    padding: 10px;
+}
+
+p {
+    background-color: #ebebed;
+    color: #777;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+  
+    padding: 10px;
+   
 
 }
+
 
 .aside {
     background-color: #ebebed;
     width: 420px;
-    height: 300px;
+    height: 290px;
     float: right;
-    margin: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     color: #777;
-    
-  
-}
+    padding: 10px;
+    text-align: center
+  }
 .div2 {
     background-color: #ebebed;
     padding: 15px;
@@ -73,4 +92,6 @@ p {
     font-style: Arial;
     font-size: 18px;
     color: #777;
+    text-align: center
+    margin-top: 20px;
 }
